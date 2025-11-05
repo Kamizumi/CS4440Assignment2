@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
+# AUTHOR: Timothy Tsang
+# FILENAME: roc_curve.py
 # SPECIFICATION: description of the program
 # FOR: CS 4440 (Data Mining) - Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 1 hour
 # -----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
