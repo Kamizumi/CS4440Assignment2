@@ -30,7 +30,6 @@ data_training = np.array(data_training_df.values)
 # X = ?
 X = []
 for row in data_training:
-    print(row)
     try:
         encoded_taxable_income = float(row[2].lower().strip().replace('k', ''))
     except ValueError:
